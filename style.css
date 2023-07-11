@@ -98,17 +98,22 @@
 
  .mega-deal-part{
   background-color: #7CEBD3;
+  
+ }
+ .hover-buy-one{
+  background-color: #7CEBD3;
+
  }
  .mega-deal-img>img{
-  width: 200px;
-  height: 200px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   margin: 50px;
   border: 3px solid #8B6D86;
   box-shadow: 5px 5px 5px 5px #87b1c5;
 }
 .mega-deal-description1{
-  font-size: 100px;
+  font-size: 80px;
   color:red;
   font-style: italic;
   }
@@ -117,6 +122,32 @@
   color:blue;
   font-style: italic;
   }
+.sub-buyone1{
+  display: flex;
+  height: 170px;
+}
+.sub-buyone1>h1{
+  font-size: 120px;
+  color:blue;
+  font-style: italic;
+}
+.sub-buyone1>img{
+  width: 80px;
+  padding: 20px;
+}
+.sub-buyone2{
+  display: flex;
+  height: 170px;
+}
+.sub-buyone2>h1{
+  font-size: 120px;
+  color:red;
+  font-style: italic;
+}
+.sub-buyone2>img{
+  width: 80px;
+  padding-left: 250px;
+}
 
  .hot-deal-part{
    margin: 80px 0;
@@ -193,8 +224,12 @@
 
 }
 .sub-footer h2,p{
-  color:#fff !important;
+  color:#fff;
   text-align: center;
+}
+.footer-para{
+  color: #fff;
+  font-size: 12px;
 }
 .red{
   color: red;
