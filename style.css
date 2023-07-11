@@ -114,7 +114,9 @@
  .hot-deal{
    font-weight: 800;
  }
-
+.instagram-part{
+  padding-bottom: 100px;
+}
 
  .sub-instagram{
   text-align: center;
@@ -134,4 +136,27 @@
 
 
 
-
+.input-part{
+  background-image: url("Flower\ Asset/Rectangle 9.png");
+  padding: 100px 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.sub-input{
+  text-align: center;
+}
+.sub-input>h2,p{
+  padding: 5px;
+}
+.input{
+  padding: 5px;
+}
+.input>input{
+  width: 480px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  padding-left: 10px;
+  font-size: 10px;
+  margin-right: 10px;
+}
