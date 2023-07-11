@@ -88,8 +88,29 @@
  .featured-image3{
    padding-top: 50px;
  }
- .img-name{
+ .featured-flower-img-name{
    text-decoration: underline;
    padding: 20px;
    font-weight: 600;
  }
+
+
+ .hot-deal-part{
+   margin: 80px 0;
+   height: 400px;
+ }
+ .sub-hot-deal{
+   text-align: center;
+ }
+ .off{
+   color: #EB7C94;
+ }
+ .hot-deal-image>img{
+   width: 200px;
+ }
+ .hot-deal{
+   font-weight: 800;
+ }
+
+
+
