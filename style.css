@@ -94,7 +94,29 @@
    padding: 20px;
    font-weight: 600;
  }
+ 
 
+ .mega-deal-part{
+  background-color: #7CEBD3;
+ }
+ .mega-deal-img>img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 50px;
+  border: 3px solid #8B6D86;
+  box-shadow: 5px 5px 5px 5px #87b1c5;
+}
+.mega-deal-description1{
+  font-size: 100px;
+  color:red;
+  font-style: italic;
+  }
+.mega-deal-description2{
+  font-size: 80px;
+  color:blue;
+  font-style: italic;
+  }
 
  .hot-deal-part{
    margin: 80px 0;
