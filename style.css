@@ -164,6 +164,11 @@
 
 .footer{
   background-color: #000000ce;
+  padding: 100px;
+  margin-top: 50px;
+}
+.sub-footer{
+
 }
 .sub-footer h2,p{
   color:#fff !important;
@@ -171,4 +176,7 @@
 }
 .red{
   color: red;
+}
+.copyright{
+  font-size: 8px;
 }
